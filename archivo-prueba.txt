@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola Wil	
+=======
+Genere un conflicto	
+>>>>>>> b401cacaac80a616af8ae57846e9256f1cf2c1aa
